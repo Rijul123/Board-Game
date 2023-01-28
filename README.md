@@ -1,2 +1,2 @@
 # Board-Game
-Board game created using JavaFX as school project.
+Implemented various functions and eventHandlers for a Board game created using JavaFX, as a school project.
